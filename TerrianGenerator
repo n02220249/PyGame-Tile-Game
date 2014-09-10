@@ -1,0 +1,15 @@
+from random import randint
+class TerrainGenerator():
+	
+	def __init__(self, file, size_x, size_y):
+		self.file = file
+		self.size_x = size_x
+		self.size_y = size_y
+		self.map = [[1 for x in xrange(size_x)] for x in xrange(size_x)] 
+	def generate(self):
+		
+	def genRandPoints(self, amount):
+ 		for t in range(0, amount):
+			x = randint(0,self.size_x)
+			y = randint(0,self.size_y)
+			self.map[y][x] = 0

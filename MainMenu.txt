@@ -1,0 +1,6 @@
+import pygame, sys, math
+from pygame import *
+from math import *
+class Menu():
+
+    def __init__(self, image, image2 ,screen, background):
