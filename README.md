@@ -2,7 +2,7 @@ PyGame-Tile-Game
 ================
 Adam Simone
 
-final version of PyGame game, written in 2013
+Final version of PyGame game, written in 2013
 
 Project focuses heavily of tile engine functionality, features include:
 
