@@ -16,5 +16,5 @@ Other notable areas of work in project:
 
 8 way directional character movement.
 Inventory system.
-NPC have state stack for instance, chasing the player or being attacked. Different entities can change each other's state to interact. 
+NPC have state stack to change an enemy's mode for instance, chasing the player or being attacked. Different entities can change each other's state to interact. 
 All pixel art was done by myself in gimp.
